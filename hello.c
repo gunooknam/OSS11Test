@@ -1,6 +1,5 @@
 #include <stdio.h>
 
 int main(void){
-   printf("Helloconf test");//hello
+   printf("Helloconf");//hello
    return 0;
-}
