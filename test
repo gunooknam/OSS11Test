@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-   printf("HelloconfContestgogo");//iello
+   printf("Hello");//iello
    return 0;
+
 }
