@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void){
+   printf("How are you today");//iello
+   return 0;
+  //meld test
+}
