@@ -1,7 +1,13 @@
 #include <stdio.h>
 
 int main(void){
+<<<<<<< HEAD
    printf("How are you today");//iello
    return 0;
   //meld test
+=======
+   printf("HelloconfContestgogo");//iello
+   return 0;
+   //this is meld test
+>>>>>>> daae81bf24f3e011e0e908ff538bd2492e841eea
 }
